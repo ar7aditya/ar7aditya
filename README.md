@@ -60,35 +60,61 @@
 ### - Languages and Libraries...
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="40px" width="40px">
-
+<img src="https://img.shields.io/badge/C++-%2320232a.svg?style=flat&logo=c%2B%2B&labelColor=00599C" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+<img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
 </p>
 
 ### - Tools
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Node-%2320232a.svg?style=flat&logo=node.js&logoColor=white&labelColor=339933" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+  <img src="https://img.shields.io/badge/ffmpeg-%2320232a.svg?style=flat&logo=ffmpeg&labelColor=007808" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+  <img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+  
+</p>
+
+### - Design
+
+<p align="center">
+<img src="https://img.shields.io/badge/-AntDesign-%2320232a.svg?.svgstyle=flat&logo=ant-design&labelcolor=0170FE" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+<img src="https://img.shields.io/badge/chakra-%2320232a.svg?style=flat&logo=chakraui&logoColor=white&labelColor=319795" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+<img src="https://img.shields.io/badge/MUI-%2320232a.svg?style=flat&logo=mui&labelColor=007FFF&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+<img src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=flat&logo=bootstrap&labelColor=7952B3&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+
+</p>
+
+### - Databases
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+<img src="https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+<img src="https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+
 </p>
 
 ### - Clouds
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/heroku-%2320232a.svg?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+</p>
+
+
 </p>
 
 ### - Blogs 🌱
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+
 </p>
 
 
