@@ -43,7 +43,7 @@
 
 **I am Into , 🙏**
 
- Web Development, SEO, Micro Services, System Design, Problem Solving 😼**
+ Web Development, System Design, Problem Solving 😼**
 <br />
 
 <p align="center">
