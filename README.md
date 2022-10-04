@@ -47,7 +47,7 @@
 <br />
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar7aditya&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar7aditya&hide=contribs,prs)
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar7aditya&count_private=true&theme=radical">
 </p>  
 
