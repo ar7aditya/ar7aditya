@@ -46,11 +46,14 @@
  Web Development, System Design, Problem Solving 😼**
 <br />
 
-<p align="center">
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ar7aditya&count_private=true&theme=radical">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar7aditya&count_private=true&theme=radical">
-</p>  
-
+  <br />
+  <br />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar7aditya&theme=radical&hide_border=false"><br/>
+  <br />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar7aditya&count_private=true&theme=radical"> 
+</div>
 <br />
 
 *************
