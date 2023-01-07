@@ -63,12 +63,12 @@
 ### - Languages and Libraries...
 
 <p align="center">
-<img src="https://img.shields.io/badge/C++-%2320232a.svg?style=flat&logo=c%2B%2B&labelColor=00599C" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
-<img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+<img src="https://img.shields.io/badge/C++-%2320232a.svg?style=flat&logo=c%2B%2B&labelColor=00599C" alt="C++" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:4px" height="32px">
+<img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS" style="vertical-align:top; margin:4px" height="32px">
 </p>
 
 ### - Tools
