@@ -1,4 +1,4 @@
-### Hi there, I'm [Aditya!](https://ar7aditya.netlify.app/) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [Aditya Rana](https://www.ar7.in) 👋  
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/wrapperup/Wrapperup/master/good-times.svg"/>
 <br />
@@ -24,27 +24,16 @@
 <p>
 <br />
 <br />
-
-### Hi 🙋‍♂️,
-### I'm 22 years old Self-taught Full-Stack developer from India.
-
-
-#### - 🥀 React Js  <code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg"></code>,NodeJS 
-
-
-
-#### - 🛸 Exploring new techs...
-
-#### - 💬 Thinking...
-
+<br />
+<br />
+  
+#### I'm Software Engineer with 1.5+ years of experience in a SaaS company, specializing in delivering customer-focused solutions and effectively resolving critical issues. Proficient in designing and optimizing high-quality RESTful APIs using Java and SpringBoot, with strong command in ReactJS for front-end development.
+<br />
+<br />
 
 <br />
 
 
-**I am Into , 🙏**
-
- Web Development, System Design, Problem Solving 😼**
-<br />
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ar7aditya&count_private=true&theme=radical">
