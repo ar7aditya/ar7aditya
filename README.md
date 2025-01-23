@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/Node-%2320232a.svg?style=flat&logo=node.js&logoColor=white&labelColor=339933" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
+ <img src="https://img.shields.io/badge/docker-%2320232a.svg?style=flat&logo=docker&labelColor=00599C&logoColor=white" alt="Docker" style="vertical-align:top; margin:4px" height="32px">
   <img src="https://img.shields.io/badge/ffmpeg-%2320232a.svg?style=flat&logo=ffmpeg&labelColor=007808" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
   <img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Twitter" style="vertical-align:top; margin:4px" height="32px">
   
