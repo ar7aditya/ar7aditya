@@ -27,7 +27,8 @@
 <br />
 <br />
   
-#### I'm Software Engineer with 1.5+ years of experience in a SaaS company, specializing in delivering customer-focused solutions and effectively resolving critical issues. Proficient in designing and optimizing high-quality RESTful APIs using Java and SpringBoot, with strong command in ReactJS for front-end development.
+#### I'm Software Engineer with over 2 years of experience in fintech (Synchrony Financial) and SaaS domains (Harness.io), focused on building secure, scalable backend systems and delivering customer-centric solutions.
+#### My expertise lies in RESTful API development, cloud automation, infrastructure, and end-to-end application architecture.
 <br />
 <br />
 
