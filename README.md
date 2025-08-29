@@ -53,7 +53,7 @@
 ###  Technical Skills
 
 <p align="center">
-<img src="https://github.com/ar7aditya/staticData/blob/af7bdccb7ddb259974d9220dc2e849add4248318/skills.jpeg">
+<img src="https://github.com/ar7aditya/staticData/blob/e8f4345f648980850806de734f4b0b3effcc0e03/skill.png">
 </p>
 
 ***********************************
